@@ -58,8 +58,8 @@ _Software developer based in Tunis, Tunisia_ <br>
 
 ## 👩🏼‍🎓 Education
 
-**Bachelor on Network and telecomunications**<br>
-[ISTIC](http://www.istic.rnu.tn/fr) - Ben arous, Tunisia _(Sep 2018 -  Present)_ <br>
+**Bachelor on Network and telecommunications**<br>
+[ISTIC](http://www.istic.rnu.tn/fr) - Ben arous, Tunisia _(Sep 2018 - May 2021)_ <br>
 
 **Cloud Application Developer**<br>
 [IBM](https://www.youracclaim.com/badges/98bb896b-b60d-413b-8a8b-9edf03f8cea4/linked_in_profile)
