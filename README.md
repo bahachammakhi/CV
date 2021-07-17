@@ -6,6 +6,26 @@ _Software developer based in Tunis, Tunisia_ <br>
 
 ## 👩🏼‍💻 Technical Experience
 
+
+**Full-Stack Developer** @ [Wssel](https://www.wssel.com/) _(July 2021 - Present)_ <br>
+- Integrating webhooks with external partners.
+<br><be>
+
+**Full-Stack Developer** @ [Bestwebmobile](http://www.bestwebmobile.com/) _(Feb 2021 - Juin 2021)_ <br>
+- Create a graphql and REST APIS to be integrated with external systems flowing an architecture that can simply be converted into serverless functions since we made the whole design part based on AWS serverless components.
+- Create react components and handle the state management with the context API.
+- Create a mobile application using React native.
+- Share data layer between Mobile and Web applications using hooks, Apollo client using Lerna.
+<br><br>
+
+**Full-Stack Developer** @ [Eggmed](https://www.eggmed.com/) _(Sept 2020 - Present)_ <br>
+- Creating UI components and ensure great UX using Reactjs
+- Data communication using GraphQL with Apollo client
+- Creating GraphQL API using Nodejs, Apollo server with MongoDB, and Elastic search as a search engine.
+- S3 setup for data storage
+- Deploying services on AWS using Docker, and Different AWS services like EC2, Route 53, S3.
+<br><br>
+
 **Full Stack Developer** @ [Freelance](https://bahachammakhi.tn/projects/) _(Janv 2020 - Present)_ <br>
 - Development of user interfaces, APIs,Servers with the MERN stack (MongoDB / Express / React / Nodejs),Gitlab CI/CD ,Docker,Linux,AWS
 - Adjusted software parameters to boost performance and incorporate new features.
