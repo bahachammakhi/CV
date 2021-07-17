@@ -2,7 +2,7 @@
 
 _Software developer based in Tunis, Tunisia_ <br>
 
-[Email](mailto:bahaeddinechammakhi@gmail.com) / [Website](https://bahachammakhi.tn/) / [LinkedIn](https://www.linkedin.com/in/baha-chammakhi/) / [GitHub](https://github.com/bahachammakhi/) / [Twitter](https://twitter.com/bahachammakhi/) / [DEV](https://dev.to/bahachammakhi/)
+[Email](mailto:bahaeddinechammakhi@gmail.com) / [Website](https://www.bahachammakhi.tn/) / [Blog](https://blog.bahachammakhi.tn) / [LinkedIn](https://www.linkedin.com/in/baha-chammakhi/) / [GitHub](https://github.com/bahachammakhi/) / [Twitter](https://twitter.com/bahachammakhi/) / [DEV](https://dev.to/bahachammakhi/)
 
 ## 👩🏼‍💻 Technical Experience
 
