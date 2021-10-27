@@ -18,7 +18,7 @@ _Software developer based in Tunis, Tunisia_ <br>
 - Share data layer between Mobile and Web applications using hooks, Apollo client using Lerna.
 <br><br>
 
-**Full-Stack Developer** @ [Eggmed](https://www.eggmed.com/) _(Sept 2020 - Present)_ <br>
+**Full-Stack Developer** @ [Eggmed](https://www.eggmed.com/) _(Sep 2020 - Present)_ <br>
 - Creating UI components and ensure great UX using Reactjs
 - Data communication using GraphQL with Apollo client
 - Creating GraphQL API using Nodejs, Apollo server with MongoDB, and Elastic search as a search engine.
@@ -42,14 +42,14 @@ _Software developer based in Tunis, Tunisia_ <br>
 - Stack used: ReactJS typescript GraphQL ant design.
     <br><br>
 
-**Full-stack Developer Intern** @ [Wereact](https://wereact.co/) _(Sept 2019 - Apr 2020)_ <br>
+**Full-stack Developer Intern** @ [Wereact](https://wereact.co/) _(Sep 2019 - Apr 2020)_ <br>
 - Building Web apps using : React, Typescript, Redux, Redux saga.
 - Maintained high-level expertise in React state management strategies, including Redux.
 - Designed REST calls using React to streamline user interface performance.
 - Integrated new interfaces with backend.
   <br><br>
 
-**Summer Intern** @ [Wereact](https://wereact.co/) _(August 2017 - Sept 2018)_ <br>
+**Summer Intern** @ [Wereact](https://wereact.co/) _(August 2019 - Sep 2019)_ <br>
 - Researched new technologies, software packages and hardware products for use in website projects.
 - Collaborated with other developers to identify and alleviate software errors and inefficiencies.
 - Used various technologies, including Reactjs, Typescript,css3,Node.js,express,mongodb
@@ -57,6 +57,9 @@ _Software developer based in Tunis, Tunisia_ <br>
     
 
 ## 👩🏼‍🎓 Education
+    
+  **Software Engineer's Degree **<br>
+[TEK-UP](https://tek-up.de) - Tunis, Tunisia _(Sep 2021 - Now)_ <br>
 
 **Bachelor on Network and telecommunications**<br>
 [ISTIC](http://www.istic.rnu.tn/fr) - Ben arous, Tunisia _(Sep 2018 - May 2021)_ <br>
