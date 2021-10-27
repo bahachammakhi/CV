@@ -58,7 +58,7 @@ _Software developer based in Tunis, Tunisia_ <br>
 
 ## 👩🏼‍🎓 Education
     
-  **Software Engineer's Degree **<br>
+**Software Engineer's Degree**<br>
 [TEK-UP](https://tek-up.de) - Tunis, Tunisia _(Sep 2021 - Now)_ <br>
 
 **Bachelor on Network and telecommunications**<br>
