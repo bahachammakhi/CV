@@ -18,7 +18,7 @@ _Software developer based in Tunis, Tunisia_ <br>
 - Share data layer between Mobile and Web applications using hooks, Apollo client using Lerna.
 <br><br>
 
-**Full-Stack Developer** @ [Eggmed](https://www.eggmed.com/) _(Sep 2020 - Present)_ <br>
+**Full-Stack Developer** @ [Eggmed](https://www.eggmed.com/) _(Sep 2020 - July 2021)_ <br>
 - Creating UI components and ensure great UX using Reactjs
 - Data communication using GraphQL with Apollo client
 - Creating GraphQL API using Nodejs, Apollo server with MongoDB, and Elastic search as a search engine.
