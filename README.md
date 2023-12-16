@@ -6,7 +6,7 @@ _Software developer based in Tunis, Tunisia_ <br>
 
 ## 👩🏼‍💻 Technical Experience
 
-**Lead software engineer** @ [Vikonnekt](https://wereact.co/) _(Feb 2023 - Sep 2023)_ <br>
+**Lead software engineer** @ [Vikonnekt](https://vikonnekt.com/) _(Feb 2023 - Sep 2023)_ <br>
 
 - Implemented CI/CD pipelines using Terraform, reducing deployment times and enabling weekly releases.
 - Guided 2 junior developers from basic coding skills to successfully debugging and solving problems without assistance.
