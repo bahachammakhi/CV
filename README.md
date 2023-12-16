@@ -1,6 +1,6 @@
 # Baha eddine chammakhi
 
-_Software developer based in Tunis, Tunisia_ <br>
+_CTO,Software engineer,Leading a software agency_ <br>
 
 [Email](mailto:bahaeddinechammakhi@gmail.com) / [Website](https://www.bahachammakhi.tn/) / [Blog](https://blog.bahachammakhi.tn) / [LinkedIn](https://www.linkedin.com/in/baha-chammakhi/) / [GitHub](https://github.com/bahachammakhi/) / [Twitter](https://twitter.com/bahachammakhi/) / [DEV](https://dev.to/bahachammakhi/)
 
