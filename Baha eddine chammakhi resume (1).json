@@ -1,0 +1,112 @@
+{
+  "name": "Baha eddine chammakhi",
+  "position": "CTO",
+  "contactInformation": "+216 25257555",
+  "email": "bahaeddinechammakhi@gmaik.com",
+  "address": "Tunis, Tunisia",
+  "profilePicture": "",
+  "socialMedia": [
+    { "socialMedia": "Github", "link": "github.com/bahachammakhi" },
+    {
+      "socialMedia": "LinkedIn",
+      "link": "www.linkedin.com/in/baha-chammakhi/"
+    },
+    { "socialMedia": "Website", "link": "www.bahachammakhit.tn" }
+  ],
+  "summary": "A highly motivated and results-oriented CTO and software engineer with over 5 years of experience building and leading high-performing teams. Proven track record of driving operational efficiency, fostering talent, and delivering innovative solutions across diverse industries. Skilled in a wide range of technologies, including MERN stack, CI/CD, DevOps, AWS, and cloud computing.",
+  "education": [
+    {
+      "school": "Software Engineer's Degree",
+      "degree": "TEKUP",
+      "startYear": "2021-09-01",
+      "endYear": "2024-06-01"
+    },
+    {
+      "school": "Bachelor on Network and telecommunications",
+      "degree": "ISTIC",
+      "startYear": "2018-09-01",
+      "endYear": "2021-06-01"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Vikonnekt",
+      "position": "Chief Technology Officer & Engineering Manager",
+      "description": "Spearheaded a comprehensive technical transformation, driving operational efficiency and team growth",
+      "keyAchievements": " Transformed Vikonnekt's technology infrastructure, boosting operational efficiency and enabling rapid innovation.\n Nurtured and empowered junior talent, building a more resilient and future-proof engineering team.\nFostered a culture of quality and continuous improvement, leading to cleaner, more maintainable code.\nSuccessfully translated business objectives into actionable technical roadmaps, ensuring strategic alignment and project success.",
+      "startYear": "2023-09-01",
+      "endYear": ""
+    },
+    {
+      "company": "Vikonnekt",
+      "position": "Lead software engineer",
+      "description": "",
+      "keyAchievements": "Implemented CI/CD pipelines using Terraform, reducing deployment times and enabling weekly releases.\nGuided 2 junior developers from basic coding skills to successfully debugging and solving problems without assistance.\nChampioned code quality by implementing rigorous review processes, resulting in a 80% reduction in coding style issues and increased developer confidence.\nCollaborated closely with stakeholders to gather requirements and define the technical roadmap for new features.",
+      "startYear": "2023-02-01",
+      "endYear": "2023-09-01"
+    },
+    {
+      "company": "Wereact",
+      "position": "Full-stack engineer",
+      "description": "",
+      "keyAchievements": "Bridging the Enterprise Gap: Built and deployed a public API, eliminating integration roadblocks and securing long-term contracts with major players like Amazon and Walmart\nUnleashed scale and agility via a microservices architecture and TypeScript migration, revolutionizing CI/CD performance and empowering faster development cycles.\nImplemented a Grafana-Prometheus based monitoring solution that pinpointed slow queries and facilitated targeted optimizations, resulting in a 50% reduction in query execution time.\nLeveraged my DevOps expertise to streamline internal development processes, implementing GitLab-based CI/CD pipelines that improved team collaboration on agency projects. This significantly enhanced project delivery and overall agency performance.",
+      "startYear": "2021-12-01",
+      "endYear": "2023-02-01"
+    },
+    {
+      "company": "Wssel",
+      "position": "Full-Stack Developer",
+      "description": "",
+      "keyAchievements": "Delivered full-stack features from backend logic to web and mobile UI, leveraging React, React Native, Apollo client, and NodeJS with GraphQL.\nSuccessfully integrated with various external services including a new payment gateway , other deliveries platforms.",
+      "startYear": "2021-06-01",
+      "endYear": "2021-12-01"
+    },
+    {
+      "company": "Bestwebmobile",
+      "position": "Full stack developer",
+      "description": "",
+      "keyAchievements": "Built GraphQL and REST APIs for seamless integration with external systems.\nDesigned the architecture with AWS serverless components for future cost optimization and simplified deployment.\nCreated interactive and state-managed React components for the web interface.\nDeveloped the mobile application using React Native for a unified user experience.\nLeveraged hooks and Apollo client with Lerna to share data seamlessly between mobile and web applications.",
+      "startYear": "2021-02-01",
+      "endYear": "2021-06-01"
+    },
+    {
+      "company": "Eggmed",
+      "position": "Full-Stack Developer",
+      "description": "",
+      "keyAchievements": "Crafted user-friendly and responsive UI components with ReactJS, prioritizing exceptional user experience.\nMasterfully implemented data communication with GraphQL and Apollo client, ensuring efficient data flow.\nDeveloped robust GraphQL APIs leveraging NodeJS, Apollo Server, MongoDB, and Elastic Search for advanced search capabilities.\nOptimized data storage and retrieval by setting up S3 buckets.\nStreamlined deployments with Docker containers and diverse AWS services like EC2, Route 53, and S3.",
+      "startYear": "2020-09-01",
+      "endYear": "2021-07-01"
+    }
+  ],
+  "projects": [],
+  "skills": [
+    {
+      "title": "Technical Skills",
+      "skills": [
+        "Typescript",
+        "Devops",
+        "Web Services",
+        "AWS",
+        "Pipelines",
+        "SQL",
+        "noSQL"
+      ]
+    },
+    {
+      "title": "Soft Skills",
+      "skills": [
+        "Collaboration",
+        "Problem-solving",
+        "Communication",
+        "Time management",
+        "Result-oriented"
+      ]
+    },
+    { "title": "Additional Skills", "skills": ["Research", "Writing"] }
+  ],
+  "languages": ["English", "French", "Arabic"],
+  "certifications": [
+    "IBM - Cloud Application Developer",
+    "Scrum study - Scrum Fundamentals"
+  ]
+}

@@ -37,7 +37,7 @@ Key Achievements:
 - Leveraged my DevOps expertise to streamline internal development processes, implementing GitLab-based CI/CD pipelines that improved team collaboration on agency projects. This significantly enhanced project delivery and overall agency performance.
   <br><be>
 
-**Full-Stack Developer** @ [Wssel](https://www.wssel.com/) _(July 2021 - Present)_ <br>
+**Full-Stack Developer** @ [Wssel](https://www.wssel.com/) _(July 2021 - Dec 2021)_ <br>
 
 - Delivered full-stack features from backend logic to web and mobile UI, leveraging React, React Native, Apollo client, and NodeJS with GraphQL.
 - Successfully integrated with various external services including a new payment gateway , other deliveries platforms.
