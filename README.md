@@ -6,6 +6,22 @@ _Software developer based in Tunis, Tunisia_ <br>
 
 ## 👩🏼‍💻 Technical Experience
 
+**Chief Technology Officer & Engineering Manager** @ [Vikonnekt](https://vikonnekt.com/) _(Sep 2023 - Now)_ <br>
+
+Spearheaded a comprehensive technical transformation, driving operational efficiency and team growth:
+
+- Streamlined deployments: Implemented CI/CD pipelines with Terraform, slashing deployment times by 50% and enabling weekly releases.
+- Empowered junior talent: Mentored junior developers from basic coding to independent problem-solving, fostering confidence and reducing reliance on senior support.
+- Championed code quality: Rigorous review processes led to an 80% decrease in coding style issues, enhancing developer confidence and code maintainability.
+- Bridged the gap: Collaborated closely with stakeholders to gather requirements and translate them into a clear technical roadmap, ensuring alignment and efficient execution.
+
+Key Achievements:
+
+- Transformed Vikonnekt's technology infrastructure, boosting operational efficiency and enabling rapid innovation.
+- Nurtured and empowered junior talent, building a more resilient and future-proof engineering team.
+- Fostered a culture of quality and continuous improvement, leading to cleaner, more maintainable code.
+- Successfully translated business objectives into actionable technical roadmaps, ensuring strategic alignment and project success.
+
 **Lead software engineer** @ [Vikonnekt](https://vikonnekt.com/) _(Feb 2023 - Sep 2023)_ <br>
 
 - Implemented CI/CD pipelines using Terraform, reducing deployment times and enabling weekly releases.
@@ -23,27 +39,29 @@ _Software developer based in Tunis, Tunisia_ <br>
 
 **Full-Stack Developer** @ [Wssel](https://www.wssel.com/) _(July 2021 - Present)_ <br>
 
-- Integrating webhooks with external partners.
+- Delivered full-stack features from backend logic to web and mobile UI, leveraging React, React Native, Apollo client, and NodeJS with GraphQL.
+- Successfully integrated with various external services including a new payment gateway , other deliveries platforms.
   <br><be>
 
 **Full-Stack Developer** @ [Bestwebmobile](http://www.bestwebmobile.com/) _(Feb 2021 - Juin 2021)_ <br>
 
-- Create a graphql and REST APIS to be integrated with external systems flowing an architecture that can simply be converted into serverless functions since we made the whole design part based on AWS serverless components.
-- Create react components and handle the state management with the context API.
-- Create a mobile application using React native.
-- Share data layer between Mobile and Web applications using hooks, Apollo client using Lerna.
+- Built GraphQL and REST APIs for seamless integration with external systems.
+- Designed the architecture with AWS serverless components for future cost optimization and simplified deployment.
+- Created interactive and state-managed React components for the web interface.
+- Developed the mobile application using React Native for a unified user experience.
+- Leveraged hooks and Apollo client with Lerna to share data seamlessly between mobile and web applications.
   <br><br>
 
 **Full-Stack Developer** @ [Eggmed](https://www.eggmed.com/) _(Sep 2020 - July 2021)_ <br>
 
-- Creating UI components and ensure great UX using Reactjs
-- Data communication using GraphQL with Apollo client
-- Creating GraphQL API using Nodejs, Apollo server with MongoDB, and Elastic search as a search engine.
-- S3 setup for data storage
-- Deploying services on AWS using Docker, and Different AWS services like EC2, Route 53, S3.
+- Crafted user-friendly and responsive UI components with ReactJS, prioritizing exceptional user experience.
+- Masterfully implemented data communication with GraphQL and Apollo client, ensuring efficient data flow.
+- Developed robust GraphQL APIs leveraging NodeJS, Apollo Server, MongoDB, and Elastic Search for advanced search capabilities.
+- Optimized data storage and retrieval by setting up S3 buckets.
+- Streamlined deployments with Docker containers and diverse AWS services like EC2, Route 53, and S3.
   <br><br>
 
-**Full Stack Developer** @ [Freelance](https://bahachammakhi.tn/projects/) _(Janv 2020 - Present)_ <br>
+**Full Stack Developer** @ [Freelance](https://bahachammakhi.tn/projects/) _(Aug 2019 - Sep 2020)_ <br>
 
 - Development of user interfaces, APIs,Servers with the MERN stack (MongoDB / Express / React / Nodejs),Gitlab CI/CD ,Docker,Linux,AWS
 - Adjusted software parameters to boost performance and incorporate new features.
