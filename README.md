@@ -97,7 +97,7 @@ Key Achievements:
 ## 👩🏼‍🎓 Education
 
 **Software Engineer's Degree**<br>
-[TEK-UP](https://tek-up.de) - Tunis, Tunisia _(Sep 2021 - Now)_ <br>
+[TEK-UP](https://tek-up.de) - Tunis, Tunisia _(Sep 2021 - Juin 2024)_ <br>
 
 **Bachelor on Network and telecommunications**<br>
 [ISTIC](http://www.istic.rnu.tn/fr) - Ben arous, Tunisia _(Sep 2018 - May 2021)_ <br>
