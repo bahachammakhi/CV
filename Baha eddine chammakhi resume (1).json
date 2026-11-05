@@ -1,19 +1,19 @@
 {
-  "name": "Baha eddine chammakhi",
-  "position": "CTO",
+  "name": "Baha Eddine Chammakhi",
+  "position": "Senior Lead Software Engineer & Engineering Leader",
   "contactInformation": "+216 25257555",
-  "email": "bahaeddinechammakhi@gmaik.com",
+  "email": "bahaeddinechammakhi@gmail.com",
   "address": "Tunis, Tunisia",
   "profilePicture": "",
   "socialMedia": [
-    { "socialMedia": "Github", "link": "github.com/bahachammakhi" },
+    { "socialMedia": "Github", "link": "https://github.com/bahachammakhi/" },
     {
       "socialMedia": "LinkedIn",
-      "link": "www.linkedin.com/in/baha-chammakhi/"
+      "link": "https://www.linkedin.com/in/baha-chammakhi/"
     },
-    { "socialMedia": "Website", "link": "www.bahachammakhit.tn" }
+    { "socialMedia": "Website", "link": "https://www.bahachammakhi.tn/" }
   ],
-  "summary": "A highly motivated and results-oriented CTO and software engineer with over 5 years of experience building and leading high-performing teams. Proven track record of driving operational efficiency, fostering talent, and delivering innovative solutions across diverse industries. Skilled in a wide range of technologies, including MERN stack, CI/CD, DevOps, AWS, and cloud computing.",
+  "summary": "Software engineer and engineering leader building software platforms and leading engineering teams. Experience spans backend systems, cloud infrastructure and technical delivery, from architecture through production. Currently leading APIs, SDKs and portal engineering at VRTX and providing technical leadership for Treyst, a legal AI platform.",
   "education": [
     {
       "school": "Software Engineer's Degree",
@@ -30,12 +30,28 @@
   ],
   "workExperience": [
     {
+      "company": "VRTX",
+      "position": "Senior Lead Software Engineer",
+      "description": "Leading the engineering team responsible for APIs, developer SDKs, and business, admin and internal operations portals at an embedded finance company.",
+      "keyAchievements": "Design and deliver multi-tenant APIs and API Gateway services using NestJS, TypeScript, Java, Spring Boot, PostgreSQL and gRPC.\nCoordinate technical designs, code reviews, testing, documentation and releases across frontend and backend delivery.",
+      "startYear": "2025-05",
+      "endYear": ""
+    },
+    {
+      "company": "Treyst",
+      "position": "CTO / Technical Lead",
+      "description": "Providing technical leadership and product direction for a legal AI platform.",
+      "keyAchievements": "Connect product priorities with architecture decisions, technical planning and implementation.",
+      "startYear": "2025",
+      "endYear": ""
+    },
+    {
       "company": "Vikonnekt",
       "position": "Chief Technology Officer & Engineering Manager",
       "description": "Spearheaded a comprehensive technical transformation, driving operational efficiency and team growth",
       "keyAchievements": " Transformed Vikonnekt's technology infrastructure, boosting operational efficiency and enabling rapid innovation.\n Nurtured and empowered junior talent, building a more resilient and future-proof engineering team.\nFostered a culture of quality and continuous improvement, leading to cleaner, more maintainable code.\nSuccessfully translated business objectives into actionable technical roadmaps, ensuring strategic alignment and project success.",
       "startYear": "2023-09-01",
-      "endYear": ""
+      "endYear": "2025-05"
     },
     {
       "company": "Vikonnekt",
