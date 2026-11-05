@@ -1,12 +1,23 @@
-# Baha eddine chammakhi
+# Baha Eddine Chammakhi
 
-_CTO,Software engineer,Leading a software agency_ <br>
+_Senior Lead Software Engineer & Engineering Leader_ <br>
 
 [Email](mailto:bahaeddinechammakhi@gmail.com) / [Website](https://www.bahachammakhi.tn/) / [Blog](https://blog.bahachammakhi.tn) / [LinkedIn](https://www.linkedin.com/in/baha-chammakhi/) / [GitHub](https://github.com/bahachammakhi/) / [Twitter](https://twitter.com/bahachammakhi/) / [DEV](https://dev.to/bahachammakhi/)
 
 ## 👩🏼‍💻 Technical Experience
 
-**Chief Technology Officer & Engineering Manager** @ [Vikonnekt](https://vikonnekt.com/) _(Sep 2023 - Now)_ <br>
+**Senior Lead Software Engineer** @ VRTX _(May 2025 - Present)_ <br>
+
+- Lead the engineering team responsible for APIs, developer SDKs, and business, admin and internal operations portals at an embedded finance company.
+- Design and deliver multi-tenant APIs and API Gateway services using NestJS, TypeScript, Java, Spring Boot, PostgreSQL and gRPC.
+- Coordinate technical designs, code reviews, testing, documentation and releases across frontend and backend delivery.
+
+**CTO / Technical Lead** @ Treyst _(2025 - Present)_ <br>
+
+- Provide technical leadership and product direction for a legal AI platform.
+- Connect product priorities with architecture decisions, technical planning and implementation.
+
+**Chief Technology Officer & Engineering Manager** @ [Vikonnekt](https://vikonnekt.com/) _(Sep 2023 - May 2025)_ <br>
 
 Spearheaded a comprehensive technical transformation, driving operational efficiency and team growth:
 
@@ -35,15 +46,15 @@ Key Achievements:
 - Unleashed scale and agility via a microservices architecture and TypeScript migration, revolutionizing CI/CD performance and empowering faster development cycles.
 - Implemented a Grafana-Prometheus based monitoring solution that pinpointed slow queries and facilitated targeted optimizations, resulting in a 50% reduction in query execution time.
 - Leveraged my DevOps expertise to streamline internal development processes, implementing GitLab-based CI/CD pipelines that improved team collaboration on agency projects. This significantly enhanced project delivery and overall agency performance.
-  <br><be>
+  <br><br>
 
 **Full-Stack Developer** @ [Wssel](https://www.wssel.com/) _(July 2021 - Dec 2021)_ <br>
 
 - Delivered full-stack features from backend logic to web and mobile UI, leveraging React, React Native, Apollo client, and NodeJS with GraphQL.
 - Successfully integrated with various external services including a new payment gateway , other deliveries platforms.
-  <br><be>
+  <br><br>
 
-**Full-Stack Developer** @ [Bestwebmobile](http://www.bestwebmobile.com/) _(Feb 2021 - Juin 2021)_ <br>
+**Full-Stack Developer** @ [Bestwebmobile](http://www.bestwebmobile.com/) _(Feb 2021 - Jun 2021)_ <br>
 
 - Built GraphQL and REST APIs for seamless integration with external systems.
 - Designed the architecture with AWS serverless components for future cost optimization and simplified deployment.
@@ -97,7 +108,7 @@ Key Achievements:
 ## 👩🏼‍🎓 Education
 
 **Software Engineer's Degree**<br>
-[TEK-UP](https://tek-up.de) - Tunis, Tunisia _(Sep 2021 - Juin 2024)_ <br>
+[TEK-UP](https://tek-up.de) - Tunis, Tunisia _(Sep 2021 - Jun 2024)_ <br>
 
 **Bachelor on Network and telecommunications**<br>
 [ISTIC](http://www.istic.rnu.tn/fr) - Ben arous, Tunisia _(Sep 2018 - May 2021)_ <br>
