@@ -1,128 +1,206 @@
 {
   "name": "Baha Eddine Chammakhi",
-  "position": "Senior Lead Software Engineer & Engineering Leader",
+  "position": "Senior Software Engineer",
   "contactInformation": "+216 25257555",
   "email": "bahaeddinechammakhi@gmail.com",
   "address": "Tunis, Tunisia",
   "profilePicture": "",
   "socialMedia": [
-    { "socialMedia": "Github", "link": "https://github.com/bahachammakhi/" },
+    {
+      "socialMedia": "Github",
+      "link": "https://github.com/bahachammakhi/"
+    },
     {
       "socialMedia": "LinkedIn",
       "link": "https://www.linkedin.com/in/baha-chammakhi/"
     },
-    { "socialMedia": "Website", "link": "https://www.bahachammakhi.tn/" }
+    {
+      "socialMedia": "Website",
+      "link": "https://www.bahachammakhi.tn/"
+    }
   ],
-  "summary": "Software engineer and engineering leader building software platforms and leading engineering teams. Experience spans backend systems, cloud infrastructure and technical delivery, from architecture through production. Currently leading APIs, SDKs and portal engineering at VRTX and providing technical leadership for Treyst, a legal AI platform.",
+  "summary": "Experienced Lead Software Engineer with a track record of driving technical innovation and leading cross-functional teams. Skilled in designing and implementing CI/CD pipelines, optimizing code quality, and mentoring junior developers to achieve peak performance. Adept at translating business objectives into actionable technical roadmaps and maintaining stakeholder alignment. Known for streamlining deployment processes and fostering a culture of continuous improvement. Proficient in full-stack technologies including React, GraphQL, NodeJS, and various cloud platforms such as AWS. Passionate about leveraging technology to drive operational efficiency and deliver high-quality software solutions.",
   "education": [
     {
-      "school": "Software Engineer's Degree",
-      "degree": "TEKUP",
-      "startYear": "2021-09-01",
-      "endYear": "2024-06-01"
+      "school": "Software Engineer’s Degree",
+      "degree": "TEK-UP",
+      "startYear": "2021",
+      "endYear": "2024"
     },
     {
-      "school": "Bachelor on Network and telecommunications",
+      "school": "Bachelor on Network and Telecommunications",
       "degree": "ISTIC",
-      "startYear": "2018-09-01",
-      "endYear": "2021-06-01"
+      "startYear": "2018",
+      "endYear": "2021"
     }
   ],
   "workExperience": [
     {
       "company": "VRTX",
-      "position": "Senior Lead Software Engineer",
-      "description": "Leading the engineering team responsible for APIs, developer SDKs, and business, admin and internal operations portals at an embedded finance company.",
-      "keyAchievements": "Design and deliver multi-tenant APIs and API Gateway services using NestJS, TypeScript, Java, Spring Boot, PostgreSQL and gRPC.\nCoordinate technical designs, code reviews, testing, documentation and releases across frontend and backend delivery.",
+      "position": "Senior Software Engineer",
+      "description": "",
+      "keyAchievements": "Led the engineering team responsible for VRTX APIs, developer SDKs, business portal, admin portal, and internal operations platform for an embedded finance ecosystem enabling businesses to integrate payment and fintech products.\nOwned the architecture, technical direction, and delivery of the platform's external and internal integration layers, supporting secure multi-tenant onboarding, accounts, cards, transactions, and payment capabilities.\nDesigned and delivered scalable API Gateway and backend services using NestJS, Fastify, TypeScript, Java, Spring Boot, PostgreSQL, and gRPC.\nLed the development of developer SDKs and shared libraries that simplified integration with onboarding, customer, account, card, transaction, and payment APIs.\nOversaw frontend and backend delivery across business, admin, and internal operations portals, ensuring consistency across APIs, workflows, permissions, and user experiences.\nCoordinated engineering priorities, technical designs, code reviews, automated testing, documentation, and production releases across the engineering team.\nArchitected CI/CD pipelines, Kubernetes deployments, Docker configurations, and Terraform infrastructure on GCP, enabling reliable and repeatable releases.",
       "startYear": "2025-05",
       "endYear": ""
     },
     {
-      "company": "Treyst",
-      "position": "CTO / Technical Lead",
-      "description": "Providing technical leadership and product direction for a legal AI platform.",
-      "keyAchievements": "Connect product priorities with architecture decisions, technical planning and implementation.",
-      "startYear": "2025",
-      "endYear": ""
-    },
-    {
       "company": "Vikonnekt",
-      "position": "Chief Technology Officer & Engineering Manager",
-      "description": "Spearheaded a comprehensive technical transformation, driving operational efficiency and team growth",
-      "keyAchievements": " Transformed Vikonnekt's technology infrastructure, boosting operational efficiency and enabling rapid innovation.\n Nurtured and empowered junior talent, building a more resilient and future-proof engineering team.\nFostered a culture of quality and continuous improvement, leading to cleaner, more maintainable code.\nSuccessfully translated business objectives into actionable technical roadmaps, ensuring strategic alignment and project success.",
-      "startYear": "2023-09-01",
+      "position": "Lead Software Engineer & Engineering Manager",
+      "description": "",
+      "keyAchievements": "Streamlined deployments: Implemented CI/CD pipelines with Terraform, slashing deployment times by 50% and enabling weekly releases.\nEmpowered junior talent: Mentored junior developers from basic coding to independent problem-solving, fostering confidence and reducing reliance on senior support.\nChampioned code quality: Rigorous review processes led to an 80% decrease in coding style issues, enhancing developer confidence and code maintainability.\nBridged the gap: Collaborated closely with stakeholders to gather requirements and translate them into a clear technical roadmap, ensuring alignment and efficient execution.",
+      "startYear": "2023-09",
       "endYear": "2025-05"
     },
     {
       "company": "Vikonnekt",
-      "position": "Lead software engineer",
+      "position": "Lead Software Engineer",
       "description": "",
-      "keyAchievements": "Implemented CI/CD pipelines using Terraform, reducing deployment times and enabling weekly releases.\nGuided 2 junior developers from basic coding skills to successfully debugging and solving problems without assistance.\nChampioned code quality by implementing rigorous review processes, resulting in a 80% reduction in coding style issues and increased developer confidence.\nCollaborated closely with stakeholders to gather requirements and define the technical roadmap for new features.",
-      "startYear": "2023-02-01",
-      "endYear": "2023-09-01"
+      "keyAchievements": "Implemented CI/CD pipelines using Terraform, reducing deployment times and enabling weekly releases.\nGuided junior developers to improve coding skills and successfully debug problems independently.\nLed code quality initiatives, implementing review processes that reduced coding style issues by 80%.\nWorked with stakeholders to define technical requirements for new features, ensuring successful project delivery.",
+      "startYear": "2023-02",
+      "endYear": "2023-09"
     },
     {
-      "company": "Wereact",
-      "position": "Full-stack engineer",
+      "company": "Wereact (Nfnite)",
+      "position": "Full-Stack Engineer",
       "description": "",
-      "keyAchievements": "Bridging the Enterprise Gap: Built and deployed a public API, eliminating integration roadblocks and securing long-term contracts with major players like Amazon and Walmart\nUnleashed scale and agility via a microservices architecture and TypeScript migration, revolutionizing CI/CD performance and empowering faster development cycles.\nImplemented a Grafana-Prometheus based monitoring solution that pinpointed slow queries and facilitated targeted optimizations, resulting in a 50% reduction in query execution time.\nLeveraged my DevOps expertise to streamline internal development processes, implementing GitLab-based CI/CD pipelines that improved team collaboration on agency projects. This significantly enhanced project delivery and overall agency performance.",
-      "startYear": "2021-12-01",
-      "endYear": "2023-02-01"
+      "keyAchievements": "Built and deployed a public API, securing long-term contracts with major players like Amazon and Walmart.\nRevolutionized CI/CD performance by introducing a microservices architecture and TypeScript migration.\nImplemented Grafana-Prometheus based monitoring, resulting in a 50% reduction in query execution time.\nStreamlined internal development processes with GitLab-based CI/CD pipelines, enhancing team collaboration.",
+      "startYear": "2021-12",
+      "endYear": "2023-01"
     },
     {
       "company": "Wssel",
       "position": "Full-Stack Developer",
       "description": "",
-      "keyAchievements": "Delivered full-stack features from backend logic to web and mobile UI, leveraging React, React Native, Apollo client, and NodeJS with GraphQL.\nSuccessfully integrated with various external services including a new payment gateway , other deliveries platforms.",
-      "startYear": "2021-06-01",
-      "endYear": "2021-12-01"
+      "keyAchievements": "Delivered full-stack features using React, React Native, Apollo Client, and NodeJS with GraphQL.\nIntegrated with external services, including a new payment gateway and other delivery platforms.",
+      "startYear": "2021-07",
+      "endYear": "2021-12"
     },
     {
       "company": "Bestwebmobile",
-      "position": "Full stack developer",
+      "position": "Full-Stack Developer",
       "description": "",
-      "keyAchievements": "Built GraphQL and REST APIs for seamless integration with external systems.\nDesigned the architecture with AWS serverless components for future cost optimization and simplified deployment.\nCreated interactive and state-managed React components for the web interface.\nDeveloped the mobile application using React Native for a unified user experience.\nLeveraged hooks and Apollo client with Lerna to share data seamlessly between mobile and web applications.",
-      "startYear": "2021-02-01",
-      "endYear": "2021-06-01"
+      "keyAchievements": "Built GraphQL and REST APIs for seamless integration with external systems.\nDesigned architecture with AWS serverless components for cost optimization and simplified deployment.\nDeveloped mobile applications using React Native for a unified user experience.",
+      "startYear": "2021-02",
+      "endYear": "2021-06"
     },
     {
       "company": "Eggmed",
       "position": "Full-Stack Developer",
       "description": "",
-      "keyAchievements": "Crafted user-friendly and responsive UI components with ReactJS, prioritizing exceptional user experience.\nMasterfully implemented data communication with GraphQL and Apollo client, ensuring efficient data flow.\nDeveloped robust GraphQL APIs leveraging NodeJS, Apollo Server, MongoDB, and Elastic Search for advanced search capabilities.\nOptimized data storage and retrieval by setting up S3 buckets.\nStreamlined deployments with Docker containers and diverse AWS services like EC2, Route 53, and S3.",
-      "startYear": "2020-09-01",
-      "endYear": "2021-07-01"
+      "keyAchievements": "Crafted user-friendly and responsive UI components with ReactJS.\nImplemented data communication with GraphQL and Apollo Client for efficient data flow.\nStreamlined deployments with Docker containers and AWS services like EC2, Route 53, and S3.\nImplemented a video conference system insuring end to end encryption using webrtc.",
+      "startYear": "2020-09",
+      "endYear": "2021-07"
+    },
+    {
+      "company": "Treyst",
+      "position": "CTO / Technical Lead",
+      "description": "",
+      "keyAchievements": "Provide technical leadership and product direction for a legal AI platform.\nConnect product priorities with architecture decisions, technical planning and implementation.",
+      "startYear": "2025",
+      "endYear": ""
+    },
+    {
+      "company": "Freelance",
+      "position": "Full-Stack Developer",
+      "description": "",
+      "keyAchievements": "Built interfaces, APIs and servers with MongoDB, Express, React and Node.js, using GitLab CI/CD, Docker, Linux and AWS.\nImproved performance, added features, reviewed code and resolved defects.\nWorked with clients on specifications and system design, collected feedback, and documented APIs for other developers.",
+      "startYear": "2019-08",
+      "endYear": "2020-09"
+    },
+    {
+      "company": "Bestwebmobile",
+      "position": "Summer Intern",
+      "description": "",
+      "keyAchievements": "Built a real-time order-monitoring system with React, TypeScript, GraphQL and Ant Design.\nWrote unit tests and integration tests using mocked GraphQL data.",
+      "startYear": "2020-07",
+      "endYear": "2020-09"
+    },
+    {
+      "company": "Wereact",
+      "position": "Full-Stack Developer Intern",
+      "description": "",
+      "keyAchievements": "Built web applications with React, TypeScript, Redux and Redux Saga.\nManaged React application state, implemented REST calls to improve UI performance, and integrated interfaces with backend services.",
+      "startYear": "2019-09",
+      "endYear": "2020-04"
+    },
+    {
+      "company": "Wereact",
+      "position": "Summer Intern",
+      "description": "",
+      "keyAchievements": "Researched technologies, software and hardware for web projects and worked with developers to resolve errors and inefficiencies.\nUsed React, TypeScript, CSS3, Node.js, Express and MongoDB.",
+      "startYear": "2019-08",
+      "endYear": "2019-09"
     }
   ],
   "projects": [],
   "skills": [
     {
-      "title": "Technical Skills",
+      "title": "Development",
       "skills": [
-        "Typescript",
-        "Devops",
-        "Web Services",
+        "Full-Stack Development",
+        "Microservices",
+        "Hexagonal Architecture",
+        "API Design (REST, GraphQL, gRPC)"
+      ]
+    },
+    {
+      "title": "Languages & Frameworks",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "JavaScript",
+        "TypeScript",
+        "NodeJS",
+        "Fastify",
+        "NestJS",
+        "ReactJS",
+        "React Native",
+        "Tailwind"
+      ]
+    },
+    {
+      "title": "DevOps & Cloud",
+      "skills": [
+        "CI/CD",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "GCP",
         "AWS",
-        "Pipelines",
-        "SQL",
-        "noSQL"
+        "GitHub Actions",
+        "GitLab"
+      ]
+    },
+    {
+      "title": "Databases & Tools",
+      "skills": [
+        "PostgreSQL",
+        "MongoDB",
+        "Keycloak",
+        "Grafana",
+        "Prometheus"
       ]
     },
     {
       "title": "Soft Skills",
       "skills": [
-        "Collaboration",
-        "Problem-solving",
-        "Communication",
-        "Time management",
-        "Result-oriented"
+        "Team Leadership",
+        "Mentoring",
+        "Stakeholder Communication",
+        "Problem-Solving",
+        "Agile Methodologies"
       ]
-    },
-    { "title": "Additional Skills", "skills": ["Research", "Writing"] }
+    }
   ],
-  "languages": ["English", "French", "Arabic"],
+  "languages": [
+    "English (Fluent)",
+    "Arabic (Native)",
+    "French (Basic)"
+  ],
   "certifications": [
-    "IBM - Cloud Application Developer",
-    "Scrum study - Scrum Fundamentals"
+    "Cloud Application Developer · IBM",
+    "AWS Fundamentals: Going Cloud-Native · Coursera",
+    "Scrum Fundamentals · ScrumStudy",
+    "Google Cloud Platform Fundamentals: Core\nInfrastructure · Coursera"
   ]
 }
