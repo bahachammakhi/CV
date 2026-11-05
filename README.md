@@ -1,126 +1,117 @@
 # Baha Eddine Chammakhi
 
-_Senior Lead Software Engineer & Engineering Leader_ <br>
+**Senior Lead Software Engineer & Engineering Leader**
 
-[Email](mailto:bahaeddinechammakhi@gmail.com) / [Website](https://www.bahachammakhi.tn/) / [Blog](https://blog.bahachammakhi.tn) / [LinkedIn](https://www.linkedin.com/in/baha-chammakhi/) / [GitHub](https://github.com/bahachammakhi/) / [Twitter](https://twitter.com/bahachammakhi/) / [DEV](https://dev.to/bahachammakhi/)
+[bahaeddinechammakhi@gmail.com](mailto:bahaeddinechammakhi@gmail.com) · [bahachammakhi.tn](https://www.bahachammakhi.tn/)<br>
+[linkedin.com/in/baha-chammakhi](https://www.linkedin.com/in/baha-chammakhi/) · [github.com/bahachammakhi](https://github.com/bahachammakhi/)
 
-## 👩🏼‍💻 Technical Experience
+[Blog](https://blog.bahachammakhi.tn) · [Twitter](https://twitter.com/bahachammakhi/) · [DEV](https://dev.to/bahachammakhi/)
 
-**Senior Lead Software Engineer** @ VRTX _(May 2025 - Present)_ <br>
+## Professional Summary
+
+Software engineer and engineering leader building software platforms and leading engineering teams. Experience spans backend systems, cloud infrastructure and technical delivery, from architecture through production.
+
+## Technical Skills
+
+- **Backend:** TypeScript, Node.js, NestJS, Java, Spring Boot, REST APIs, GraphQL, gRPC.
+- **Frontend & mobile:** React, React Native, Redux, Apollo Client.
+- **Data & infrastructure:** PostgreSQL, MongoDB, Elasticsearch, AWS, Docker, Terraform, GitLab CI/CD, Grafana, Prometheus.
+
+## Professional Experience
+
+### Senior Lead Software Engineer | VRTX
+May 2025 – Present
 
 - Lead the engineering team responsible for APIs, developer SDKs, and business, admin and internal operations portals at an embedded finance company.
 - Design and deliver multi-tenant APIs and API Gateway services using NestJS, TypeScript, Java, Spring Boot, PostgreSQL and gRPC.
 - Coordinate technical designs, code reviews, testing, documentation and releases across frontend and backend delivery.
 
-**CTO / Technical Lead** @ Treyst _(2025 - Present)_ <br>
+### CTO / Technical Lead | Treyst
+2025 – Present
 
 - Provide technical leadership and product direction for a legal AI platform.
 - Connect product priorities with architecture decisions, technical planning and implementation.
 
-**Chief Technology Officer & Engineering Manager** @ [Vikonnekt](https://vikonnekt.com/) _(Sep 2023 - May 2025)_ <br>
+### Chief Technology Officer & Engineering Manager | [Vikonnekt](https://vikonnekt.com/)
+Sep 2023 – May 2025
 
-Spearheaded a comprehensive technical transformation, driving operational efficiency and team growth:
+- Implemented CI/CD pipelines with Terraform, reducing deployment times by 50% and enabling weekly releases.
+- Mentored junior developers from basic coding to independent problem-solving, reducing reliance on senior support.
+- Introduced code review processes that reduced coding style issues by 80% and improved maintainability.
+- Worked with stakeholders to translate business requirements into a technical roadmap.
 
-- Streamlined deployments: Implemented CI/CD pipelines with Terraform, slashing deployment times by 50% and enabling weekly releases.
-- Empowered junior talent: Mentored junior developers from basic coding to independent problem-solving, fostering confidence and reducing reliance on senior support.
-- Championed code quality: Rigorous review processes led to an 80% decrease in coding style issues, enhancing developer confidence and code maintainability.
-- Bridged the gap: Collaborated closely with stakeholders to gather requirements and translate them into a clear technical roadmap, ensuring alignment and efficient execution.
-
-Key Achievements:
-
-- Transformed Vikonnekt's technology infrastructure, boosting operational efficiency and enabling rapid innovation.
-- Nurtured and empowered junior talent, building a more resilient and future-proof engineering team.
-- Fostered a culture of quality and continuous improvement, leading to cleaner, more maintainable code.
-- Successfully translated business objectives into actionable technical roadmaps, ensuring strategic alignment and project success.
-
-**Lead software engineer** @ [Vikonnekt](https://vikonnekt.com/) _(Feb 2023 - Sep 2023)_ <br>
+### Lead Software Engineer | [Vikonnekt](https://vikonnekt.com/)
+Feb 2023 – Sep 2023
 
 - Implemented CI/CD pipelines using Terraform, reducing deployment times and enabling weekly releases.
-- Guided 2 junior developers from basic coding skills to successfully debugging and solving problems without assistance.
-- Championed code quality by implementing rigorous review processes, resulting in a 80% reduction in coding style issues and increased developer confidence.
-- Collaborated closely with stakeholders to gather requirements and define the technical roadmap for new features.
+- Guided 2 junior developers from basic coding skills to independently debugging and solving problems.
+- Implemented code review processes, reducing coding style issues by 80% and increasing developer confidence.
+- Gathered stakeholder requirements and defined the technical roadmap for new features.
 
-**Full-stack engineer** @ [Wereact](https://wereact.co/) _(Dec 2021 - Jan 2023)_ <br>
+### Full-Stack Engineer | [Wereact](https://wereact.co/)
+Dec 2021 – Jan 2023
 
-- Bridging the Enterprise Gap: Built and deployed a public API, eliminating integration roadblocks and securing long-term contracts with major players like Amazon and Walmart
-- Unleashed scale and agility via a microservices architecture and TypeScript migration, revolutionizing CI/CD performance and empowering faster development cycles.
-- Implemented a Grafana-Prometheus based monitoring solution that pinpointed slow queries and facilitated targeted optimizations, resulting in a 50% reduction in query execution time.
-- Leveraged my DevOps expertise to streamline internal development processes, implementing GitLab-based CI/CD pipelines that improved team collaboration on agency projects. This significantly enhanced project delivery and overall agency performance.
-  <br><br>
+- Built and deployed a public API, removing integration roadblocks and securing long-term contracts with Amazon and Walmart.
+- Introduced a microservices architecture and TypeScript migration to improve CI/CD performance and development speed.
+- Implemented Grafana and Prometheus monitoring to identify slow queries, enabling optimizations that reduced query execution time by 50%.
+- Implemented GitLab CI/CD pipelines to improve collaboration and delivery across agency projects.
 
-**Full-Stack Developer** @ [Wssel](https://www.wssel.com/) _(July 2021 - Dec 2021)_ <br>
+### Full-Stack Developer | [Wssel](https://www.wssel.com/)
+Jul 2021 – Dec 2021
 
-- Delivered full-stack features from backend logic to web and mobile UI, leveraging React, React Native, Apollo client, and NodeJS with GraphQL.
-- Successfully integrated with various external services including a new payment gateway , other deliveries platforms.
-  <br><br>
+- Delivered backend, web and mobile features using React, React Native, Apollo Client, Node.js and GraphQL.
+- Integrated external services, including a payment gateway and other delivery platforms.
 
-**Full-Stack Developer** @ [Bestwebmobile](http://www.bestwebmobile.com/) _(Feb 2021 - Jun 2021)_ <br>
+### Full-Stack Developer | [Bestwebmobile](http://www.bestwebmobile.com/)
+Feb 2021 – Jun 2021
 
-- Built GraphQL and REST APIs for seamless integration with external systems.
-- Designed the architecture with AWS serverless components for future cost optimization and simplified deployment.
-- Created interactive and state-managed React components for the web interface.
-- Developed the mobile application using React Native for a unified user experience.
-- Leveraged hooks and Apollo client with Lerna to share data seamlessly between mobile and web applications.
-  <br><br>
+- Built GraphQL and REST APIs and designed an AWS serverless architecture for simpler deployment and future cost optimization.
+- Developed React web components and a React Native mobile application.
+- Used hooks, Apollo Client and Lerna to share data between web and mobile applications.
 
-**Full-Stack Developer** @ [Eggmed](https://www.eggmed.com/) _(Sep 2020 - July 2021)_ <br>
+### Full-Stack Developer | [Eggmed](https://www.eggmed.com/)
+Sep 2020 – Jul 2021
 
-- Crafted user-friendly and responsive UI components with ReactJS, prioritizing exceptional user experience.
-- Masterfully implemented data communication with GraphQL and Apollo client, ensuring efficient data flow.
-- Developed robust GraphQL APIs leveraging NodeJS, Apollo Server, MongoDB, and Elastic Search for advanced search capabilities.
-- Optimized data storage and retrieval by setting up S3 buckets.
-- Streamlined deployments with Docker containers and diverse AWS services like EC2, Route 53, and S3.
-  <br><br>
+- Built responsive React UI components and implemented data communication with GraphQL and Apollo Client.
+- Developed GraphQL APIs using Node.js, Apollo Server, MongoDB and Elasticsearch.
+- Configured S3 storage and deployed applications with Docker and AWS services, including EC2, Route 53 and S3.
 
-**Full Stack Developer** @ [Freelance](https://bahachammakhi.tn/projects/) _(Aug 2019 - Sep 2020)_ <br>
+### Full-Stack Developer | [Freelance](https://bahachammakhi.tn/projects/)
+Aug 2019 – Sep 2020
 
-- Development of user interfaces, APIs,Servers with the MERN stack (MongoDB / Express / React / Nodejs),Gitlab CI/CD ,Docker,Linux,AWS
-- Adjusted software parameters to boost performance and incorporate new features.
-- Reviewed code, debugged problems and corrected issues.
-- Discussed project progress with customers, collected feedback on different stages and directly addressed concerns.
-- Worked closely with clients to establish specifications and system designs.
-- Documented APIs to be used by other developer's in future features.
-  <br><br>
+- Built interfaces, APIs and servers with MongoDB, Express, React and Node.js, using GitLab CI/CD, Docker, Linux and AWS.
+- Improved performance, added features, reviewed code and resolved defects.
+- Worked with clients on specifications and system design, collected feedback, and documented APIs for other developers.
 
-**Summer intern** @ [Best web mobile](http://www.bestwebmobile.com/) _(July 2020 - Sep 2020)_ <br>
+### Summer Intern | [Bestwebmobile](http://www.bestwebmobile.com/)
+Jul 2020 – Sep 2020
 
-- Build a monitoring system to track orders status in real time.
-- Implementing Unit tests.
-- Integration tests by mocking GraphQL data.
-- Stack used: ReactJS typescript GraphQL ant design.
-  <br><br>
+- Built a real-time order-monitoring system with React, TypeScript, GraphQL and Ant Design.
+- Wrote unit tests and integration tests using mocked GraphQL data.
 
-**Full-stack Developer Intern** @ [Wereact](https://wereact.co/) _(Sep 2019 - Apr 2020)_ <br>
+### Full-Stack Developer Intern | [Wereact](https://wereact.co/)
+Sep 2019 – Apr 2020
 
-- Building Web apps using : React, Typescript, Redux, Redux saga.
-- Maintained high-level expertise in React state management strategies, including Redux.
-- Designed REST calls using React to streamline user interface performance.
-- Integrated new interfaces with backend.
-  <br><br>
+- Built web applications with React, TypeScript, Redux and Redux Saga.
+- Managed React application state, implemented REST calls to improve UI performance, and integrated interfaces with backend services.
 
-**Summer Intern** @ [Wereact](https://wereact.co/) _(August 2019 - Sep 2019)_ <br>
+### Summer Intern | [Wereact](https://wereact.co/)
+Aug 2019 – Sep 2019
 
-- Researched new technologies, software packages and hardware products for use in website projects.
-- Collaborated with other developers to identify and alleviate software errors and inefficiencies.
-- Used various technologies, including Reactjs, Typescript,css3,Node.js,express,mongodb
-  <br><br>
+- Researched technologies, software and hardware for web projects and worked with developers to resolve errors and inefficiencies.
+- Used React, TypeScript, CSS3, Node.js, Express and MongoDB.
 
-## 👩🏼‍🎓 Education
+## Education
 
-**Software Engineer's Degree**<br>
-[TEK-UP](https://tek-up.de) - Tunis, Tunisia _(Sep 2021 - Jun 2024)_ <br>
+### Software Engineer's Degree | [TEK-UP](https://tek-up.de)
+Tunis, Tunisia · Sep 2021 – Jun 2024
 
-**Bachelor on Network and telecommunications**<br>
-[ISTIC](http://www.istic.rnu.tn/fr) - Ben arous, Tunisia _(Sep 2018 - May 2021)_ <br>
+### Bachelor's in Network and Telecommunications | [ISTIC](http://www.istic.rnu.tn/fr)
+Ben Arous, Tunisia · Sep 2018 – May 2021
 
-**Cloud Application Developer**<br>
-[IBM](https://www.youracclaim.com/badges/98bb896b-b60d-413b-8a8b-9edf03f8cea4/linked_in_profile)
+## Certifications
 
-**AWS Fundamentals: Going Cloud-Native**<br>
-[Coursera](https://www.coursera.org/account/accomplishments/certificate/3BG6EEEDRXZM)
-
-**Scrum Fundamentals** <br>
-[ScrumStudy](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-Bahaeddinechammakhi-754999.pdf)\_
-
-**Google Cloud Platform Fundamentals: Core Infrastructure**<br>
-[Coursera](https://www.coursera.org/account/accomplishments/certificate/T98LAYV9MGCL)
+- **Cloud Application Developer** · [IBM](https://www.youracclaim.com/badges/98bb896b-b60d-413b-8a8b-9edf03f8cea4/linked_in_profile)
+- **AWS Fundamentals: Going Cloud-Native** · [Coursera](https://www.coursera.org/account/accomplishments/certificate/3BG6EEEDRXZM)
+- **Scrum Fundamentals** · [ScrumStudy](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-Bahaeddinechammakhi-754999.pdf)
+- **Google Cloud Platform Fundamentals: Core Infrastructure** · [Coursera](https://www.coursera.org/account/accomplishments/certificate/T98LAYV9MGCL)
