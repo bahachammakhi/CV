@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title | escape }}</title>
+    {% seo title=false %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#cv">Skip to CV</a>
+    <nav class="page-tools" aria-label="CV tools">
+      <a href="https://github.com/bahachammakhi/CV">View source</a>
+      <button type="button" onclick="window.print()">Print / Save PDF</button>
+    </nav>
+    <main id="cv" class="cv" tabindex="-1">
+      {{ content }}
+    </main>
+  </body>
+</html>

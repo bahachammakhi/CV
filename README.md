@@ -1,126 +1,191 @@
-# Baha Eddine Chammakhi
-
-_Senior Lead Software Engineer & Engineering Leader_ <br>
-
-[Email](mailto:bahaeddinechammakhi@gmail.com) / [Website](https://www.bahachammakhi.tn/) / [Blog](https://blog.bahachammakhi.tn) / [LinkedIn](https://www.linkedin.com/in/baha-chammakhi/) / [GitHub](https://github.com/bahachammakhi/) / [Twitter](https://twitter.com/bahachammakhi/) / [DEV](https://dev.to/bahachammakhi/)
-
-## 👩🏼‍💻 Technical Experience
-
-**Senior Lead Software Engineer** @ VRTX _(May 2025 - Present)_ <br>
-
-- Lead the engineering team responsible for APIs, developer SDKs, and business, admin and internal operations portals at an embedded finance company.
-- Design and deliver multi-tenant APIs and API Gateway services using NestJS, TypeScript, Java, Spring Boot, PostgreSQL and gRPC.
-- Coordinate technical designs, code reviews, testing, documentation and releases across frontend and backend delivery.
-
-**CTO / Technical Lead** @ Treyst _(2025 - Present)_ <br>
-
-- Provide technical leadership and product direction for a legal AI platform.
-- Connect product priorities with architecture decisions, technical planning and implementation.
-
-**Chief Technology Officer & Engineering Manager** @ [Vikonnekt](https://vikonnekt.com/) _(Sep 2023 - May 2025)_ <br>
-
-Spearheaded a comprehensive technical transformation, driving operational efficiency and team growth:
-
-- Streamlined deployments: Implemented CI/CD pipelines with Terraform, slashing deployment times by 50% and enabling weekly releases.
-- Empowered junior talent: Mentored junior developers from basic coding to independent problem-solving, fostering confidence and reducing reliance on senior support.
-- Championed code quality: Rigorous review processes led to an 80% decrease in coding style issues, enhancing developer confidence and code maintainability.
-- Bridged the gap: Collaborated closely with stakeholders to gather requirements and translate them into a clear technical roadmap, ensuring alignment and efficient execution.
-
-Key Achievements:
-
-- Transformed Vikonnekt's technology infrastructure, boosting operational efficiency and enabling rapid innovation.
-- Nurtured and empowered junior talent, building a more resilient and future-proof engineering team.
-- Fostered a culture of quality and continuous improvement, leading to cleaner, more maintainable code.
-- Successfully translated business objectives into actionable technical roadmaps, ensuring strategic alignment and project success.
-
-**Lead software engineer** @ [Vikonnekt](https://vikonnekt.com/) _(Feb 2023 - Sep 2023)_ <br>
-
-- Implemented CI/CD pipelines using Terraform, reducing deployment times and enabling weekly releases.
-- Guided 2 junior developers from basic coding skills to successfully debugging and solving problems without assistance.
-- Championed code quality by implementing rigorous review processes, resulting in a 80% reduction in coding style issues and increased developer confidence.
-- Collaborated closely with stakeholders to gather requirements and define the technical roadmap for new features.
-
-**Full-stack engineer** @ [Wereact](https://wereact.co/) _(Dec 2021 - Jan 2023)_ <br>
-
-- Bridging the Enterprise Gap: Built and deployed a public API, eliminating integration roadblocks and securing long-term contracts with major players like Amazon and Walmart
-- Unleashed scale and agility via a microservices architecture and TypeScript migration, revolutionizing CI/CD performance and empowering faster development cycles.
-- Implemented a Grafana-Prometheus based monitoring solution that pinpointed slow queries and facilitated targeted optimizations, resulting in a 50% reduction in query execution time.
-- Leveraged my DevOps expertise to streamline internal development processes, implementing GitLab-based CI/CD pipelines that improved team collaboration on agency projects. This significantly enhanced project delivery and overall agency performance.
-  <br><br>
-
-**Full-Stack Developer** @ [Wssel](https://www.wssel.com/) _(July 2021 - Dec 2021)_ <br>
-
-- Delivered full-stack features from backend logic to web and mobile UI, leveraging React, React Native, Apollo client, and NodeJS with GraphQL.
-- Successfully integrated with various external services including a new payment gateway , other deliveries platforms.
-  <br><br>
-
-**Full-Stack Developer** @ [Bestwebmobile](http://www.bestwebmobile.com/) _(Feb 2021 - Jun 2021)_ <br>
-
-- Built GraphQL and REST APIs for seamless integration with external systems.
-- Designed the architecture with AWS serverless components for future cost optimization and simplified deployment.
-- Created interactive and state-managed React components for the web interface.
-- Developed the mobile application using React Native for a unified user experience.
-- Leveraged hooks and Apollo client with Lerna to share data seamlessly between mobile and web applications.
-  <br><br>
-
-**Full-Stack Developer** @ [Eggmed](https://www.eggmed.com/) _(Sep 2020 - July 2021)_ <br>
-
-- Crafted user-friendly and responsive UI components with ReactJS, prioritizing exceptional user experience.
-- Masterfully implemented data communication with GraphQL and Apollo client, ensuring efficient data flow.
-- Developed robust GraphQL APIs leveraging NodeJS, Apollo Server, MongoDB, and Elastic Search for advanced search capabilities.
-- Optimized data storage and retrieval by setting up S3 buckets.
-- Streamlined deployments with Docker containers and diverse AWS services like EC2, Route 53, and S3.
-  <br><br>
-
-**Full Stack Developer** @ [Freelance](https://bahachammakhi.tn/projects/) _(Aug 2019 - Sep 2020)_ <br>
-
-- Development of user interfaces, APIs,Servers with the MERN stack (MongoDB / Express / React / Nodejs),Gitlab CI/CD ,Docker,Linux,AWS
-- Adjusted software parameters to boost performance and incorporate new features.
-- Reviewed code, debugged problems and corrected issues.
-- Discussed project progress with customers, collected feedback on different stages and directly addressed concerns.
-- Worked closely with clients to establish specifications and system designs.
-- Documented APIs to be used by other developer's in future features.
-  <br><br>
-
-**Summer intern** @ [Best web mobile](http://www.bestwebmobile.com/) _(July 2020 - Sep 2020)_ <br>
-
-- Build a monitoring system to track orders status in real time.
-- Implementing Unit tests.
-- Integration tests by mocking GraphQL data.
-- Stack used: ReactJS typescript GraphQL ant design.
-  <br><br>
-
-**Full-stack Developer Intern** @ [Wereact](https://wereact.co/) _(Sep 2019 - Apr 2020)_ <br>
-
-- Building Web apps using : React, Typescript, Redux, Redux saga.
-- Maintained high-level expertise in React state management strategies, including Redux.
-- Designed REST calls using React to streamline user interface performance.
-- Integrated new interfaces with backend.
-  <br><br>
-
-**Summer Intern** @ [Wereact](https://wereact.co/) _(August 2019 - Sep 2019)_ <br>
-
-- Researched new technologies, software packages and hardware products for use in website projects.
-- Collaborated with other developers to identify and alleviate software errors and inefficiencies.
-- Used various technologies, including Reactjs, Typescript,css3,Node.js,express,mongodb
-  <br><br>
-
-## 👩🏼‍🎓 Education
-
-**Software Engineer's Degree**<br>
-[TEK-UP](https://tek-up.de) - Tunis, Tunisia _(Sep 2021 - Jun 2024)_ <br>
-
-**Bachelor on Network and telecommunications**<br>
-[ISTIC](http://www.istic.rnu.tn/fr) - Ben arous, Tunisia _(Sep 2018 - May 2021)_ <br>
-
-**Cloud Application Developer**<br>
-[IBM](https://www.youracclaim.com/badges/98bb896b-b60d-413b-8a8b-9edf03f8cea4/linked_in_profile)
-
-**AWS Fundamentals: Going Cloud-Native**<br>
-[Coursera](https://www.coursera.org/account/accomplishments/certificate/3BG6EEEDRXZM)
-
-**Scrum Fundamentals** <br>
-[ScrumStudy](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-Bahaeddinechammakhi-754999.pdf)\_
-
-**Google Cloud Platform Fundamentals: Core Infrastructure**<br>
-[Coursera](https://www.coursera.org/account/accomplishments/certificate/T98LAYV9MGCL)
+<h1><span>Baha Eddine</span> Chammakhi</h1>
+<p class="headline">Senior Software Engineer</p>
+<div class="contact"><p><a href="tel:+21625257555">+216 25257555</a> · <a href="mailto:bahaeddinechammakhi@gmail.com">bahaeddinechammakhi@gmail.com</a> · Tunis, Tunisia</p>
+<p><a href="https://www.linkedin.com/in/baha-chammakhi/">in/baha-chammakhi</a> · <a href="https://github.com/bahachammakhi">github.com/bahachammakhi</a></p></div>
+<section><h2>Profile</h2><p>Experienced Lead Software Engineer with a track record of driving technical innovation and leading cross-functional teams. Skilled in designing and implementing CI/CD pipelines, optimizing code quality, and mentoring junior developers to achieve peak performance. Adept at translating business objectives into actionable technical roadmaps and maintaining stakeholder alignment. Known for streamlining deployment processes and fostering a culture of continuous improvement.</p><p>Proficient in full-stack technologies including React, GraphQL, NodeJS, and various cloud platforms such as AWS. Passionate about leveraging technology to drive operational efficiency and deliver high-quality software solutions.</p></section>
+<section><h2>Areas of Expertise</h2><p>CI/CD · Terraform · DevOps · Full-Stack Development · Microservices · TypeScript · Java · Spring Boot · gRPC · NodeJS · ReactJS · Kubernetes · GCP · AWS · Docker · MongoDB · PostgreSQL · SQL · Team Leadership · Mentoring · Code Quality</p></section>
+<section><h2>Professional Experience</h2><article class="role">
+<header class="role-header">
+<h3>Senior Software Engineer</h3>
+<p class="employer"><a href="https://vrtx.sa/">VRTX</a></p>
+<p class="location">Saudi Arabia</p>
+<p class="dates">May 2025 – Present</p>
+</header>
+<ul>
+<li>Led the engineering team responsible for VRTX APIs, developer SDKs, business portal, admin portal, and internal operations platform for an embedded finance ecosystem enabling businesses to integrate payment and fintech products.</li>
+<li>Owned the architecture, technical direction, and delivery of the platform&#x27;s external and internal integration layers, supporting secure multi-tenant onboarding, accounts, cards, transactions, and payment capabilities.</li>
+<li>Designed and delivered scalable API Gateway and backend services using NestJS, Fastify, TypeScript, Java, Spring Boot, PostgreSQL, and gRPC.</li>
+<li>Led the development of developer SDKs and shared libraries that simplified integration with onboarding, customer, account, card, transaction, and payment APIs.</li>
+<li>Oversaw frontend and backend delivery across business, admin, and internal operations portals, ensuring consistency across APIs, workflows, permissions, and user experiences.</li>
+<li>Coordinated engineering priorities, technical designs, code reviews, automated testing, documentation, and production releases across the engineering team.</li>
+<li>Architected CI/CD pipelines, Kubernetes deployments, Docker configurations, and Terraform infrastructure on GCP, enabling reliable and repeatable releases.</li>
+</ul>
+</article>
+<article class="role">
+<header class="role-header">
+<h3>Lead Software Engineer &amp; Engineering Manager</h3>
+<p class="employer"><a href="https://vikonnekt.com/">Vikonnekt</a></p>
+<p class="location">Iceland</p>
+<p class="dates">Sep 2023 – May 2025</p>
+</header>
+<ul>
+<li>Streamlined deployments: Implemented CI/CD pipelines with Terraform, slashing deployment times by 50% and enabling weekly releases.</li>
+<li>Empowered junior talent: Mentored junior developers from basic coding to independent problem-solving, fostering confidence and reducing reliance on senior support.</li>
+<li>Championed code quality: Rigorous review processes led to an 80% decrease in coding style issues, enhancing developer confidence and code maintainability.</li>
+<li>Bridged the gap: Collaborated closely with stakeholders to gather requirements and translate them into a clear technical roadmap, ensuring alignment and efficient execution.</li>
+</ul>
+</article>
+<article class="role">
+<header class="role-header">
+<h3>Lead Software Engineer</h3>
+<p class="employer"><a href="https://vikonnekt.com/">Vikonnekt</a></p>
+<p class="location">Remote</p>
+<p class="dates">Feb 2023 – Sep 2023</p>
+</header>
+<ul>
+<li>Implemented CI/CD pipelines using Terraform, reducing deployment times and enabling weekly releases.</li>
+<li>Guided junior developers to improve coding skills and successfully debug problems independently.</li>
+<li>Led code quality initiatives, implementing review processes that reduced coding style issues by 80%.</li>
+<li>Worked with stakeholders to define technical requirements for new features, ensuring successful project delivery.</li>
+</ul>
+</article>
+<article class="role">
+<header class="role-header">
+<h3>Full-Stack Engineer</h3>
+<p class="employer"><a href="https://wereact.com/">Wereact (Nfnite)</a></p>
+<p class="location">Tunis</p>
+<p class="dates">Dec 2021 – Jan 2023</p>
+</header>
+<ul>
+<li>Built and deployed a public API, securing long-term contracts with major players like Amazon and Walmart.</li>
+<li>Revolutionized CI/CD performance by introducing a microservices architecture and TypeScript migration.</li>
+<li>Implemented Grafana-Prometheus based monitoring, resulting in a 50% reduction in query execution time.</li>
+<li>Streamlined internal development processes with GitLab-based CI/CD pipelines, enhancing team collaboration.</li>
+</ul>
+</article>
+<article class="role">
+<header class="role-header">
+<h3>Full-Stack Developer</h3>
+<p class="employer">Wssel</p>
+<p class="location">Remote</p>
+<p class="dates">July 2021 – Dec 2021</p>
+</header>
+<ul>
+<li>Delivered full-stack features using React, React Native, Apollo Client, and NodeJS with GraphQL.</li>
+<li>Integrated with external services, including a new payment gateway and other delivery platforms.</li>
+</ul>
+</article>
+<article class="role">
+<header class="role-header">
+<h3>Full-Stack Developer</h3>
+<p class="employer">Bestwebmobile</p>
+<p class="location">Remote</p>
+<p class="dates">Feb 2021 – Jun 2021</p>
+</header>
+<ul>
+<li>Built GraphQL and REST APIs for seamless integration with external systems.</li>
+<li>Designed architecture with AWS serverless components for cost optimization and simplified deployment.</li>
+<li>Developed mobile applications using React Native for a unified user experience.</li>
+</ul>
+</article>
+<article class="role">
+<header class="role-header">
+<h3>Full-Stack Developer</h3>
+<p class="employer"><a href="https://eggmed.com/">Eggmed</a></p>
+<p class="location">Remote</p>
+<p class="dates">Sep 2020 – July 2021</p>
+</header>
+<ul>
+<li>Crafted user-friendly and responsive UI components with ReactJS.</li>
+<li>Implemented data communication with GraphQL and Apollo Client for efficient data flow.</li>
+<li>Streamlined deployments with Docker containers and AWS services like EC2, Route 53, and S3.</li>
+<li>Implemented a video conference system insuring end to end encryption using webrtc.</li>
+</ul>
+</article>
+</section>
+<section><h2>Education</h2>
+<article class="education"><h3>Software Engineer’s Degree</h3><p><a href="https://tek-up.de/">TEK-UP</a> · Tunis, Tunisia <span class="education-date">2021–2024</span></p></article>
+<article class="education"><h3>Bachelor on Network and Telecommunications</h3><p><a href="https://www.istic.rnu.tn/en/">ISTIC</a> · Tunis, Tunisia <span class="education-date">2018–2021</span></p></article>
+</section>
+<section><h2>Skills</h2><ul class="skills">
+<li><strong>Development:</strong> Full-Stack Development, Microservices, Hexagonal Architecture, API Design (REST, GraphQL, gRPC)</li>
+<li><strong>Languages &amp; Frameworks:</strong> Java, Spring Boot, JavaScript, TypeScript, NodeJS, Fastify, NestJS, ReactJS, React Native, Tailwind</li>
+<li><strong>DevOps &amp; Cloud:</strong> CI/CD, Terraform, Docker, Kubernetes, GCP, AWS, GitHub Actions, GitLab</li>
+<li><strong>Databases &amp; Tools:</strong> PostgreSQL, MongoDB, Keycloak, Grafana, Prometheus</li>
+<li><strong>Soft Skills:</strong> Team Leadership, Mentoring, Stakeholder Communication, Problem-Solving, Agile Methodologies</li>
+</ul></section>
+<section><h2>Languages</h2><p>English · Fluent &nbsp;&nbsp; Arabic · Native &nbsp;&nbsp; French · Basic</p></section>
+<section class="supplemental"><h2>Additional Experience</h2><article class="role supplemental-role">
+<header class="role-header">
+<h3>CTO / Technical Lead</h3>
+<p class="employer">Treyst</p>
+<p class="location"></p>
+<p class="dates">2025 – Present</p>
+</header>
+<ul>
+<li>Provide technical leadership and product direction for a legal AI platform.</li>
+<li>Connect product priorities with architecture decisions, technical planning and implementation.</li>
+</ul>
+</article>
+<article class="role supplemental-role">
+<header class="role-header">
+<h3>Full-Stack Developer</h3>
+<p class="employer"><a href="https://bahachammakhi.tn/projects/">Freelance</a></p>
+<p class="location"></p>
+<p class="dates">Aug 2019 – Sep 2020</p>
+</header>
+<ul>
+<li>Built interfaces, APIs and servers with MongoDB, Express, React and Node.js, using GitLab CI/CD, Docker, Linux and AWS.</li>
+<li>Improved performance, added features, reviewed code and resolved defects.</li>
+<li>Worked with clients on specifications and system design, collected feedback, and documented APIs for other developers.</li>
+</ul>
+</article>
+<article class="role supplemental-role">
+<header class="role-header">
+<h3>Summer Intern</h3>
+<p class="employer"><a href="http://www.bestwebmobile.com/">Bestwebmobile</a></p>
+<p class="location"></p>
+<p class="dates">Jul 2020 – Sep 2020</p>
+</header>
+<ul>
+<li>Built a real-time order-monitoring system with React, TypeScript, GraphQL and Ant Design.</li>
+<li>Wrote unit tests and integration tests using mocked GraphQL data.</li>
+</ul>
+</article>
+<article class="role supplemental-role">
+<header class="role-header">
+<h3>Full-Stack Developer Intern</h3>
+<p class="employer"><a href="https://wereact.co/">Wereact</a></p>
+<p class="location"></p>
+<p class="dates">Sep 2019 – Apr 2020</p>
+</header>
+<ul>
+<li>Built web applications with React, TypeScript, Redux and Redux Saga.</li>
+<li>Managed React application state, implemented REST calls to improve UI performance, and integrated interfaces with backend services.</li>
+</ul>
+</article>
+<article class="role supplemental-role">
+<header class="role-header">
+<h3>Summer Intern</h3>
+<p class="employer"><a href="https://wereact.co/">Wereact</a></p>
+<p class="location"></p>
+<p class="dates">Aug 2019 – Sep 2019</p>
+</header>
+<ul>
+<li>Researched technologies, software and hardware for web projects and worked with developers to resolve errors and inefficiencies.</li>
+<li>Used React, TypeScript, CSS3, Node.js, Express and MongoDB.</li>
+</ul>
+</article>
+</section>
+<section class="supplemental"><h2>Certifications</h2><ul>
+<li><strong>Cloud Application Developer</strong> · <a
+href="https://www.youracclaim.com/badges/98bb896b-b60d-413b-8a8b-9edf03f8cea4/linked_in_profile">IBM</a></li>
+<li><strong>AWS Fundamentals: Going Cloud-Native</strong> · <a
+href="https://www.coursera.org/account/accomplishments/certificate/3BG6EEEDRXZM">Coursera</a></li>
+<li><strong>Scrum Fundamentals</strong> · <a
+href="http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-Bahaeddinechammakhi-754999.pdf">ScrumStudy</a></li>
+<li><strong>Google Cloud Platform Fundamentals: Core
+Infrastructure</strong> · <a
+href="https://www.coursera.org/account/accomplishments/certificate/T98LAYV9MGCL">Coursera</a></li>
+</ul>
+</section>

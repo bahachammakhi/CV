@@ -1,0 +1,72 @@
+---
+---
+:root { color-scheme: light; --text: #171717; --muted: #555; --link: #174b9b; }
+* { box-sizing: border-box; }
+html { font-size: 16px; }
+body { margin: 0; background: #fff; color: var(--text); font-family: Arial, Helvetica, sans-serif; line-height: 1.48; -webkit-text-size-adjust: 100%; }
+a { color: var(--link); text-underline-offset: .14em; }
+a:hover { text-decoration-thickness: 2px; }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--text); outline-offset: 4px; }
+.skip-link { position: absolute; left: 1rem; top: -6rem; padding: .5rem 1rem; background: #fff; }
+.skip-link:focus { top: .5rem; }
+.page-tools { max-width: 62rem; margin: 1.1rem auto 0; padding: 0 3rem; display: flex; justify-content: flex-end; align-items: center; gap: 1.15rem; font-size: .8rem; }
+.page-tools button { border: 1px solid #666; border-radius: 2px; padding: .5rem .75rem; font: inherit; color: #222; background: #fff; cursor: pointer; }
+.page-tools button:hover { background: #f1f1f1; }
+.cv { max-width: 62rem; margin: 0 auto 2rem; padding: 1.25rem 3rem 2rem; overflow-wrap: break-word; }
+h1 { margin: 0; font-size: 2.85rem; font-weight: 400; line-height: 1.15; text-align: center; letter-spacing: -.035em; }
+h1 span { color: #666; }
+.headline { margin: .6rem 0 .75rem; font-size: 1.05rem; font-weight: 700; text-align: center; }
+.contact { text-align: center; font-size: .88rem; line-height: 1.65; }
+.contact p { margin: .15rem 0; }
+.contact a[href^="tel:"], .contact a[href^="mailto:"] { color: inherit; text-decoration: none; }
+h2 { display: flex; align-items: center; gap: .7rem; margin: 1.6rem 0 .65rem; font-size: 1.25rem; font-weight: 400; line-height: 1.25; }
+h2::after { content: ""; flex: 1; border-top: 1px solid #555; }
+p { margin: 0 0 .65rem; }
+.role { margin: 0 0 1.15rem; }
+.role-header { display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "title location" "employer dates"; column-gap: 1.5rem; margin-bottom: .35rem; }
+h3 { margin: 0; font-size: 1rem; font-weight: 700; line-height: 1.35; }
+.role-header h3 { grid-area: title; }
+.role-header p { margin: 0; font-size: .93rem; line-height: 1.45; }
+.employer { grid-area: employer; font-style: italic; }
+.employer a { text-decoration: none; }
+.location { grid-area: location; text-align: right; font-weight: 700; }
+.dates { grid-area: dates; text-align: right; font-style: italic; }
+ul { margin: .35rem 0 .6rem; padding-left: 1.3rem; }
+li { margin: .2rem 0; padding-left: .05rem; }
+.education { margin: 0 0 .7rem; }
+.education p { margin: .1rem 0 0; }
+.education-date { float: right; font-style: italic; }
+.skills li { margin-bottom: .35rem; }
+.supplemental { margin-top: 1.5rem; }
+@media (max-width: 640px) {
+  .page-tools { margin: .7rem 0 0; padding: 0 1.25rem; }
+  .cv { padding: 1.4rem 1.25rem 2rem; }
+  h1 { font-size: 2.15rem; }
+  .headline { font-size: 1rem; }
+  .contact { font-size: .86rem; }
+  h2 { font-size: 1.18rem; margin-top: 1.4rem; }
+  .role-header { display: block; }
+  .location, .dates { text-align: left; font-weight: 400; color: var(--muted); }
+  .location:empty { display: none; }
+  .education-date { float: none; display: block; }
+}
+@page { size: A4; margin: 12mm 13mm; }
+@media print {
+  html { font-size: 10pt; }
+  body { line-height: 1.25; }
+  .page-tools, .skip-link { display: none !important; }
+  .cv { max-width: none; margin: 0; padding: 0; }
+  h1 { font-size: 28pt; }
+  .headline { font-size: 11pt; margin: 5pt 0; }
+  .contact { font-size: 9pt; line-height: 1.4; }
+  h2 { font-size: 13pt; margin: 10pt 0 5pt; }
+  h3 { font-size: 10pt; }
+  .role { margin-bottom: 8pt; }
+  .role-header p { font-size: 9.5pt; }
+  ul { margin: 3pt 0 5pt; }
+  li { margin: 1pt 0; }
+  a { color: inherit; text-decoration: none; }
+  h2, h3, .role-header { break-after: avoid; page-break-after: avoid; }
+  li { break-inside: avoid; page-break-inside: avoid; }
+  p, li { widows: 2; orphans: 2; }
+}
